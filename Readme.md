@@ -1,1 +1,1 @@
- <img src="imagens/read01.png" alt="alura">
+ <img src="img/read01.png" alt="alura">
